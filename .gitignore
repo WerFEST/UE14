@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 
 DerivedDataCache/*
+
+
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+
+Content/DarkForest/
